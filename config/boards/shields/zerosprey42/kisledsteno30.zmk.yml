@@ -1,0 +1,8 @@
+file_format: "1"
+id: kisledsteno30
+name: KisledSteno30
+type: shield
+url: https://github.com/DrEdwardPCB/zmk-config-kisled30steno
+requires: [waveshare_rp2040_zero]
+features:
+  - keys

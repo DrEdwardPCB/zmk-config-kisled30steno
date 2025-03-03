@@ -2,9 +2,12 @@
 # and (c) 2022 tubbytwins (Matthew A. Schnoor) and beekeeb
 # SPDX-License-Identifier: MIT
 
-if SHIELD_ZEROSPREY42
+
+
+if SHIELD_KISLEDSTENO30
 
 config ZMK_KEYBOARD_NAME
-    default "Zerosprey42"
+    default "KisledSteno30"
+# default should be <=16 Character for bluetooth
 
 endif
