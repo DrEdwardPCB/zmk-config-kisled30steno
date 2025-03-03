@@ -15,7 +15,7 @@
 #define SECOND 2
 
 
-{
+/ {
         keymap {
                 compatible = "zmk,keymap";
                 label = "KisledSteno30";
